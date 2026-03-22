@@ -112,15 +112,16 @@ This repo doesn't really have much to add but if you really have some suggestion
 
 1.  **Fork** the repository.
 2.  **Create a new branch** for your feature or bug fix:
+
     ```bash
     git checkout -b feature/your-feature-name
     # or
     git checkout -b bugfix/issue-description
     ```
-3.  **Make your changes** and ensure the code adheres to existing style.
-4.  **Commit your changes** with a clear and descriptive message.
-5.  **Push your branch** to your forked repository.
-6.  **Open a Pull Request** to the `main` branch of this repository, describing your changes and their benefits.
+4.  **Make your changes** and ensure the code adheres to existing style.
+5.  **Commit your changes** with a clear and descriptive message.
+6.  **Push your branch** to your forked repository.
+7.  **Open a Pull Request** to the `main` branch of this repository, describing your changes and their benefits.
 
 ### Ideas for Contribution:
 *   Implement a simple HTML/CSS user interface (UI) to interact with the `generatePassword` function.
