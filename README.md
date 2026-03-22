@@ -138,4 +138,4 @@ You can have it, I don't really care. The best you can do is just give me credit
 
 ## 🙏 Acknowledgments
 
-This project was developed by [Lionshaft-pixel](https://github.com/Lionshaft-pixel) as part of a learning journey in JavaScript. Special thanks for the foundational knowledge gained during the learning process.
+This project was developed by [Lionshaft-pixel](https://github.com/Lionshaft-pixel) as part of a learning journey in JavaScript. Special thanks to BroCode for the foundational knowledge gained during the learning process.
